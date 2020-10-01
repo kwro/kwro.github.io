@@ -4,7 +4,7 @@
 
 ### Machine Learning
 
-- Explaining customers' supermarket choice with Random Forest Classifier (https://medium.com/@kasicakasicaa/explaining-customers-supermarket-choice-with-random-forest-classifier-41779decc2b3)
+- [Explaining customers' supermarket choice with Random Forest Classifier](https://medium.com/@kasicakasicaa/explaining-customers-supermarket-choice-with-random-forest-classifier-41779decc2b3)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
