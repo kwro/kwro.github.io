@@ -17,7 +17,7 @@ Recently Tesco announced the closure of a few supermarkets in Poland ([see detai
 ---
 
 [Bus routes in Warsaw](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/nhcabe0v45xjdv5/keplergl_zx1hog.json)
-<img src="warsaw.png?raw=true"/>
+<img src="images/warsaw.png?raw=false"/>
 
 ---
 
