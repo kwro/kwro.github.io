@@ -9,10 +9,15 @@ Recently Tesco announced the closure of a few supermarkets in Poland ([see detai
 [Full article](https://medium.com/@kasicakasicaa/explaining-customers-supermarket-choice-with-random-forest-classifier-41779decc2b3)
 
 ---
-### Visualisation with Tableau
+### Visualisation
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Polish market recovery after Covid-19](https://public.tableau.com/profile/justtag#!/vizhome/Polish_Market_Recovery_by_Justtag_AUTO/Market_Recovery_Justtag)
+<img src="images/tableau.png?raw=true"/>
+
+---
+
+[Bus routes in Warsaw](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/nhcabe0v45xjdv5/keplergl_zx1hog.json)
+<img src="warsaw.png?raw=true"/>
 
 ---
 
