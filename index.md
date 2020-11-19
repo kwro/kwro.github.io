@@ -5,13 +5,13 @@
 ### Machine Learning
 
 [Explaining customers' supermarket choice with Random Forest Classifier](https://medium.com/@kasicakasicaa/explaining-customers-supermarket-choice-with-random-forest-classifier-41779decc2b3) <br>
-<p style="font-size:12px">This paper attempts to explain the change of customer's offline behaviour based on particular example of Tesco store in Warsaw, Stalowa street. In particular, I will check how the supermarkets portfolio changed after Tesco closure for each customer. Actually there are a few possible outcomes: some users might continue doing the shopping in the supermarket chains they are used to, others might look for a replacement. In the analysis I will try to reveal behavioural patterns responsible for choosing store brands. I will use random forest classifier to predict the replacement brand for each customer, then the used features will be analysed.</p><br>
+<p style="font-size:12px">This paper attempts to explain the change of customer's offline behaviour based on particular example of Tesco store in Warsaw, Stalowa street. In particular, I will check how the supermarkets portfolio changed after Tesco closure for each customer. Actually there are a few possible outcomes: some users might continue doing the shopping in the supermarket chains they are used to, others might look for a replacement. In the analysis I will try to reveal behavioural patterns responsible for choosing store brands. I will use random forest classifier to predict the replacement brand for each customer, then the used features will be analysed.</p>
 
 [Classification Task on Titanic Dataset](https://github.com/kwro/Classification-on-Titanic-dataset/blob/master/Titanic%20Classification.ipynb) <br>
-<p style="font-size:12px">Based on Titanic dataset the binary classification was conducted. </p><br>
+<p style="font-size:12px">Based on Titanic dataset the binary classification was conducted. </p>
 
 [Housing Prices Competition for Kaggle Learn Users](https://github.com/kwro/Kaggle_Home_Prices_Competition) <br>
-<p style="font-size:12px">The goal is to predict sale price of house based on Kaggle data: https://www.kaggle.com/c/home-data-for-ml-course/overview/</p><br>
+<p style="font-size:12px">The goal is to predict sale price of house based on Kaggle data: https://www.kaggle.com/c/home-data-for-ml-course/overview/</p>
 
 
 ---
