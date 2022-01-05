@@ -38,9 +38,9 @@
 
 
 [Warsaw Car routes in Kepler](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/nhcabe0v45xjdv5/keplergl_zx1hog.json)
-[Loom Video] (https://www.loom.com/share/6f7fa456a1e148fcb797e7ec0054e890)
-<p style="font-size:12px">Dynamic visualisation of car drivers in Warsaw based in Justtag Group data.</p><a href="https://www.loom.com/share/6f7fa456a1e148fcb797e7ec0054e890">Loom video</a> <br>
-<iframe src="https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/nhcabe0v45xjdv5/keplergl_zx1hog.json" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="500px" allowfullscreen></iframe><br><br>
+<a href="https://www.loom.com/share/6f7fa456a1e148fcb797e7ec0054e890">Loom Video</a> <br>
+<p style="font-size:12px">Dynamic visualisation of car drivers in Warsaw based in Justtag Group data.</p>
+<iframe src="https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/nhcabe0v45xjdv5/keplergl_zx1hog.json" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="650px" width="500px" allowfullscreen></iframe><br><br>
 
 ---
 
