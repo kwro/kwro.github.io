@@ -17,18 +17,20 @@
 ---
 ### Visualisation
 
+
+[Choinkaonline.pl E-Commerce Operational Data Analysis](https://public.tableau.com/app/profile/kasia.wrona/viz/Choinkaonline_2021_11/CHO)
+<p style="font-size:12px">E-Commerce Data Analysis</p>
+<iframe src="https://public.tableau.com/app/profile/kasia.wrona/viz/Choinkaonline_2021_11/CHO?:showVizHome=no&:embed=true" width="1500" height="1300"></iframe><br>
+
+
+---
+
 [Glassdoor Company Reviews](https://public.tableau.com/app/profile/kasia.wrona/viz/Glassdoor_Company_Review_Dashboard/GlassdoorEmployeeReviews)
 <p style="font-size:12px">Analysis of company reviews given by current and former employees in four industries.Complete cross-section across multiple dimensions.</p>
 <iframe src="https://public.tableau.com/views/Glassdoor_Company_Review_Dashboard/GlassdoorEmployeeReviews?:showVizHome=no&:embed=true" width="500" height="300"></iframe><br>
 
 ---
 
-[Choinkaonline.pl E-Commerce Operational Data Analysys](https://public.tableau.com/app/profile/kasia.wrona/viz/Choinkaonline_2021_11/CHO)
-<p style="font-size:12px">E-Commerce Data Analysis</p>
-<iframe src="https://public.tableau.com/app/profile/kasia.wrona/viz/Choinkaonline_2021_11/CHO?:showVizHome=no&:embed=true" width="1500" height="1300"></iframe><br>
-
-
----
 
 [Polish market recovery after Covid-19](https://public.tableau.com/profile/justtag#!/vizhome/Polish_Market_Recovery_by_Justtag_AUTO/Market_Recovery_Justtag)
 <p style="font-size:12px">The dashboard presents the Polish market condition during COVID pandemic by industry.</p>
@@ -41,6 +43,7 @@
 [Car routes in Warsaw](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/nhcabe0v45xjdv5/keplergl_zx1hog.json)
 <p style="font-size:12px">Dynamic visualisation of car drivers in Warsaw based in Justtag Group data.</p><br>
 <img src="images/warsaw.png?raw=true"/>
+<iframe src="https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/nhcabe0v45xjdv5/keplergl_zx1hog.json" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="600px" allowfullscreen></iframe>
 
 
 ---
