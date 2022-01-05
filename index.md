@@ -17,6 +17,13 @@
 ---
 ### Visualisation
 
+[Glassdoor Company Reviews](https://public.tableau.com/app/profile/kasia.wrona/viz/Glassdoor_Company_Review_Dashboard/GlassdoorEmployeeReviews)
+<p style="font-size:12px">The dashboard presents company reviews given by current and former employees in four industries.</p><br>
+<iframe src="https://public.tableau.com/views/Glassdoor_Company_Review_Dashboard/GlassdoorEmployeeReviews?:showVizHome=no&:embed=true" width="645" height="955"></iframe><br>
+
+
+---
+
 [Polish market recovery after Covid-19](https://public.tableau.com/profile/justtag#!/vizhome/Polish_Market_Recovery_by_Justtag_AUTO/Market_Recovery_Justtag)
 <p style="font-size:12px">The dashboard presents the Polish market condition during COVID pandemic by industry.</p><br>
 <img src="images/tableau.png?raw=true"/><br>
