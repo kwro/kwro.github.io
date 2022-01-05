@@ -3,10 +3,14 @@ logo: "/images/unnamed1.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist at Justtag Group
   <br>
+  <br>
   Justtag Group is Polish start-up company in marketing field possessing a technology which enables collecting user-location data based on wifi networks. 
   Data is then used mainly for targeting and evaluating efficiency of advertising campaigns as well as market research.
   <br>
+  <br>
   <a href="https://www.linkedin.com/in/katarzyna-anna-wrona/">View My LinkedIn Profile</a> 
+  <br>
+  <a href="https://github.com/kwro">GitHub Repo</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
