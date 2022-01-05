@@ -19,7 +19,7 @@
 
 [Glassdoor Company Reviews](https://public.tableau.com/app/profile/kasia.wrona/viz/Glassdoor_Company_Review_Dashboard/GlassdoorEmployeeReviews)
 <p style="font-size:12px">Analysis of company reviews given by current and former employees in four industries.Complete cross-section across multiple dimensions.</p>
-<iframe src="https://public.tableau.com/views/Glassdoor_Company_Review_Dashboard/GlassdoorEmployeeReviews?:showVizHome=no&:embed=true" width="500" height="300"></iframe><br>
+<iframe src="https://public.tableau.com/views/Glassdoor_Company_Review_Dashboard/GlassdoorEmployeeReviews?:showVizHome=no&:embed=true" width="500" height="300"></iframe>
 
 ---
 
@@ -34,27 +34,26 @@
 <p style="font-size:12px">The dashboard presents the Polish market condition during COVID pandemic by industry.</p>
 <img src="images/tableau.png?raw=true"/><br>
 
-
 ---
 
 
-[Car routes in Warsaw](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/nhcabe0v45xjdv5/keplergl_zx1hog.json)
+[Warsaw Car routes in Kepler](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/nhcabe0v45xjdv5/keplergl_zx1hog.json)
+[Loom Video] (https://www.loom.com/share/6f7fa456a1e148fcb797e7ec0054e890)
 <p style="font-size:12px">Dynamic visualisation of car drivers in Warsaw based in Justtag Group data.</p><a href="https://www.loom.com/share/6f7fa456a1e148fcb797e7ec0054e890">Loom video</a> <br>
-<iframe src="https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/nhcabe0v45xjdv5/keplergl_zx1hog.json" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="300px" width="500px" allowfullscreen></iframe>
-
+<iframe src="https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/nhcabe0v45xjdv5/keplergl_zx1hog.json" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="500px" allowfullscreen></iframe><br><br>
 
 ---
 
 
 [Jupyter Flex Dashboard for Monitoring Stock Market Data]()
-<img src="jupyter_flex.png?raw=true"/><br>
+<br><img src="jupyter_flex.png?raw=true"/><br>
 
 
 ---
 
 
 [Stock Market Heatmap]()
-<img src="heatmap.png?raw=true"/><br>
+<br><img src="heatmap.png?raw=true"/><br>
 
 
 ---
