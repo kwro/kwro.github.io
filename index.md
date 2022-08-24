@@ -4,6 +4,9 @@
 
 ### Machine Learning
 
+[Stock market automaded trading](https://github.com/kwro/auto_trading) <br>
+<p style="font-size:12px">An algorithm for automated stock or crypto currency trading with Alpaca Market. Implemented features: checking if market is open, scrapping current price from Yahoo, checking the latest price agains the algorithm based on short- and long-term rolling average, cloud implementation. Test version finalised with 105% of return per week.</p>
+
 [Explaining customers' supermarket choice with Random Forest Classifier](https://medium.com/@kasicakasicaa/explaining-customers-supermarket-choice-with-random-forest-classifier-41779decc2b3) <br>
 <p style="font-size:12px">This paper attempts to explain the change of customer's offline behaviour based on particular example of Tesco store in Warsaw, Stalowa street. In particular, I will check how the supermarkets portfolio changed after Tesco closure for each customer. Actually there are a few possible outcomes: some users might continue doing the shopping in the supermarket chains they are used to, others might look for a replacement. In the analysis I will try to reveal behavioural patterns responsible for choosing store brands. I will use random forest classifier to predict the replacement brand for each customer, then the used features will be analysed.</p>
 
