@@ -7,15 +7,8 @@
 [Stock market automaded trading](https://github.com/kwro/auto_trading) <br>
 <p style="font-size:12px">An algorithm for automated stock or crypto currency trading with Alpaca Market. Implemented features: checking if market is open, scrapping current price from Yahoo, checking the latest price agains the algorithm based on short- and long-term rolling average, cloud implementation. Test version finalised with 105% of return per week.</p>
 
-[Explaining customers' supermarket choice with Random Forest Classifier](https://medium.com/@kasicakasicaa/explaining-customers-supermarket-choice-with-random-forest-classifier-41779decc2b3) <br>
-<p style="font-size:12px">This paper attempts to explain the change of customer's offline behaviour based on particular example of Tesco store in Warsaw, Stalowa street. In particular, I will check how the supermarkets portfolio changed after Tesco closure for each customer. Actually there are a few possible outcomes: some users might continue doing the shopping in the supermarket chains they are used to, others might look for a replacement. In the analysis I will try to reveal behavioural patterns responsible for choosing store brands. I will use random forest classifier to predict the replacement brand for each customer, then the used features will be analysed.</p>
-
-[Classification Task on Titanic Dataset](https://github.com/kwro/Classification-on-Titanic-dataset/blob/master/Titanic%20Classification.ipynb) <br>
-<p style="font-size:12px">Based on Titanic dataset the binary classification was conducted. Before training the algorithm, data cleaning and imputing missing data was performed. Next, five classification algorithms were trained. The one with the best score was then used for prediction on out-of-sample data. The final accuracy equals 0.71.</p>
-
-[Predicting House Prices on Kaggle Data](https://github.com/kwro/Kaggle_Home_Prices_Competition) <br>
-<p style="font-size:12px">The goal is to predict sale price of house based on Kaggle data: https://www.kaggle.com/c/home-data-for-ml-course/overview/. The focus was placed on feature selection. When training the model, features with low variance were excluded. Finally, mean absolute error of Linear Regression model amounts to $17.7k. </p>
-
+[Customer Propensity Classifier](https://github.com/kwro/CustomerPropensity#customer-propensity-classifier) <br>
+<p style="font-size:12px">Predict the likelihood of customer conversion based on customer behaviour. The model is trained on Kaggle "Customer Propensity to Purchase" dataset. It takes into account the imbalanced train set and performs under-sampling. There are several different "weak" classifiers, which predictions are then processed by "voting" classifier. This process creates a synergy effect with an accuracy exceeding 99%.</p>
 
 ---
 ### Visualisation
