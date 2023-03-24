@@ -13,25 +13,17 @@
 ---
 ### Visualisation
 
+[Member Performance vs Benchmark](https://public.tableau.com/views/SelectedAccountPerformancevsBenchmark/ExecutiveSummary?%3Alanguage=en-US&%3Adisplay_count=n&%3Aorigin=viz_share_link)
+<p style="font-size:12px">The Tableau dashboard providing a comparison of selected member vs selected benchmark (all dataset, the same country or top 5 members).</p>
+<iframe src="https://public.tableau.com/views/SelectedAccountPerformancevsBenchmark/ExecutiveSummary?:showVizHome=no&:embed=true" width="500" height="300"></iframe>
+
+---
+
 [Glassdoor Company Reviews](https://public.tableau.com/app/profile/kasia.wrona/viz/Glassdoor_Company_Review_Dashboard/GlassdoorEmployeeReviews)
 <p style="font-size:12px">Analysis of company reviews given by current and former employees in four industries.Complete cross-section across multiple dimensions.</p>
 <iframe src="https://public.tableau.com/views/Glassdoor_Company_Review_Dashboard/GlassdoorEmployeeReviews?:showVizHome=no&:embed=true" width="500" height="300"></iframe>
 
 ---
-
-[Choinkaonline.pl E-Commerce Operational Data Analysis](https://public.tableau.com/app/profile/kasia.wrona/viz/Choinkaonline_2021_11/CHO)
-<p style="font-size:12px">E-Commerce Data Analysis</p>
-<img src="images/choinka.png?raw=true"/><br>
-
----
-
-
-[Polish market recovery after Covid-19](https://public.tableau.com/profile/justtag#!/vizhome/Polish_Market_Recovery_by_Justtag_AUTO/Market_Recovery_Justtag)
-<p style="font-size:12px">The dashboard presents the Polish market condition during COVID pandemic by industry.</p>
-<img src="images/tableau.png?raw=true"/><br>
-
----
-
 
 [Warsaw Car routes in Kepler](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/nhcabe0v45xjdv5/keplergl_zx1hog.json)
 <a href="https://www.loom.com/share/6f7fa456a1e148fcb797e7ec0054e890">Loom Video</a> <br>
