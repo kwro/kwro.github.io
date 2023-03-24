@@ -15,7 +15,7 @@
 
 [Member Performance vs Benchmark](https://public.tableau.com/views/SelectedAccountPerformancevsBenchmark/ExecutiveSummary?%3Alanguage=en-US&%3Adisplay_count=n&%3Aorigin=viz_share_link)
 <p style="font-size:12px">The Tableau dashboard providing a comparison of selected member vs selected benchmark (all dataset, the same country or top 5 members).</p>
-<br><img src="blue_kpis.png?raw=true"/><br>
+<br><img src="/images/blue_kpis.png?raw=true"/><br>
 
 ---
 
