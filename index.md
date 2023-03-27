@@ -19,6 +19,12 @@
 
 ---
 
+[Top 6 Cities by Sales](https://public.tableau.com/views/_Top6_automatically_selected_charts/TopicsRateOverTimeperRegion?:language=en-GB&:display_count=n&:origin=viz_share_link)
+<p style="font-size:12px">The Tableau dashboard enabling dynamic selection of top 6 Cities by Sales.</p>
+<br><img src="/images/top6.png?raw=true"/><br>
+
+---
+
 [Glassdoor Company Reviews](https://public.tableau.com/app/profile/kasia.wrona/viz/Glassdoor_Company_Review_Dashboard/GlassdoorEmployeeReviews)
 <p style="font-size:12px">Analysis of company reviews given by current and former employees in four industries.Complete cross-section across multiple dimensions.</p>
 <iframe src="https://public.tableau.com/views/Glassdoor_Company_Review_Dashboard/GlassdoorEmployeeReviews?:showVizHome=no&:embed=true" width="500" height="300"></iframe>
