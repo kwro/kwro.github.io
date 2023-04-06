@@ -19,6 +19,12 @@
 
 ---
 
+[Sales Bridge | Variance Analysis](https://public.tableau.com/views/SalesBridgeVarianceAnalysisPriceVolumeMix/SalesBridge?:language=en-US&:display_count=n&:origin=viz_share_link)
+<p style="font-size:12px">Sales Bridge (Price Volume Mix Analysis or Variance Analysis) provides explanation to the gap between current year and either previous year or planned (budgeted) sales. .</p>
+<br><img src="/images/sales bridge.png?raw=true"/><br>
+
+---
+
 [Top 6 Cities by Sales](https://public.tableau.com/views/_Top6_automatically_selected_charts/TopicsRateOverTimeperRegion?:language=en-GB&:display_count=n&:origin=viz_share_link)
 <p style="font-size:12px">The Tableau dashboard enabling dynamic selection of top 6 Cities by Sales.</p>
 <br><img src="/images/top6.png?raw=true"/><br>
