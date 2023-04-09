@@ -14,25 +14,25 @@
 ### Visualisation
 
 [Member Performance vs Benchmark](https://public.tableau.com/views/SelectedAccountPerformancevsBenchmark/ExecutiveSummary?%3Alanguage=en-US&%3Adisplay_count=n&%3Aorigin=viz_share_link)
-<p style="font-size:12px">The Tableau dashboard providing a comparison of selected member vs selected benchmark (all dataset, the same country or top 5 members).</p>
+<p style="font-size:12px">The Tableau dashboard that allows users to compare a selected member with a benchmark of their choice (all dataset, the same country or top 5 members). The dashboard was designed to help users gain insights into how specific members perform compared to their peers or competitors.</p>
 <br><img src="/images/blue_kpis.png?raw=true"/><br>
 
 ---
 
 [Sales Bridge | Variance Analysis](https://public.tableau.com/views/SalesBridgeVarianceAnalysisPriceVolumeMix/SalesBridge?:language=en-US&:display_count=n&:origin=viz_share_link)
-<p style="font-size:12px">Sales Bridge (Price Volume Mix Analysis or Variance Analysis) provides explanation to the gap between current year and either previous year or planned (budgeted) sales. .</p>
+<p style="font-size:12px">Sales Bridge (Price Volume Mix Analysis or Variance Analysis) provides explanation to the gap between current year and either previous year or planned (budgeted) sales.</p>
 <br><img src="/images/sales bridge.png?raw=true"/><br>
 
 ---
 
 [Top 6 Cities by Sales](https://public.tableau.com/views/_Top6_automatically_selected_charts/TopicsRateOverTimeperRegion?:language=en-GB&:display_count=n&:origin=viz_share_link)
-<p style="font-size:12px">The Tableau dashboard enabling dynamic selection of top 6 Cities by Sales.</p>
+<p style="font-size:12px">The dynamic selection feature of the Tableau dashboard allows users to choose the top 6 cities based on sales. One key benefit of this feature is that each of the 6 charts has its own independent axis, making it possible to compare the shape of the distribution even when the size of the cities varies significantly.</p>
 <br><img src="/images/top6.png?raw=true"/><br>
 
 ---
 
 [Glassdoor Company Reviews](https://public.tableau.com/app/profile/kasia.wrona/viz/Glassdoor_Company_Review_Dashboard/GlassdoorEmployeeReviews)
-<p style="font-size:12px">Analysis of company reviews given by current and former employees in four industries.Complete cross-section across multiple dimensions.</p>
+<p style="font-size:12px">Analysis of company reviews given by current and former employees in four industries. Complete cross-section across multiple dimensions. Practical usage of trigonometric functions to draw radar chart.</p>
 <iframe src="https://public.tableau.com/views/Glassdoor_Company_Review_Dashboard/GlassdoorEmployeeReviews?:showVizHome=no&:embed=true" width="500" height="300"></iframe>
 
 ---
