@@ -14,13 +14,21 @@
 ### Visualisation
 
 [Member Performance vs Benchmark](https://public.tableau.com/views/SelectedAccountPerformancevsBenchmark/ExecutiveSummary?%3Alanguage=en-US&%3Adisplay_count=n&%3Aorigin=viz_share_link)
-<p style="font-size:12px">The Tableau dashboard that allows users to compare a selected member with a benchmark of their choice (all dataset, the same country or top 5 members). The dashboard was designed to help users gain insights into how specific members perform compared to their peers or competitors.</p>
+<p style="font-size:12px">By leveraging the power of Tableau's LOD (Level of Detail) functions, I created a dynamic and powerful visualisation by allowing users to analyse and compare data subsets within the context of the entire dataset. This comparison would not have been possible using a SQL query alone, as the WHERE clause restricts the ability to preview both the subset and the complete dataset simultaneously. This enhanced functionality enabled stakeholders to make data-driven decisions with a comprehensive understanding of the relationships and patterns within the data.</p>
 <br><img src="/images/blue_kpis.png?raw=true"/><br>
 
 ---
 
+[Saneky Flow Chart](https://public.tableau.com/views/SelectedAccountPerformancevsBenchmark/ExecutiveSummary?%3Alanguage=en-US&%3Adisplay_count=n&%3Aorigin=viz_share_link)
+<p style="font-size:12px">By utilizing Tableau's features and functionality, I was able to present complex marketing data in a visually appealing and easily understandable format. I developed an interactive Sankey diagram that effectively showcased the flow of users across different stages of the campaign. The three levels of the Sankey chart provided a clear and intuitive visualization of the user journey, highlighting the transitions and interactions between various touchpoints.</p>
+<br><img src="/images/Users_Flow.png?raw=true"/><br>
+
+---
+
 [Sales Bridge | Variance Analysis](https://public.tableau.com/views/SalesBridgeVarianceAnalysisPriceVolumeMix/SalesBridge?:language=en-US&:display_count=n&:origin=viz_share_link)
-<p style="font-size:12px">Sales Bridge (Price Volume Mix Analysis or Variance Analysis) provides explanation to the gap between current year and either previous year or planned (budgeted) sales.</p>
+<p style="font-size:12px">Sales Bridge (Price Volume Mix Analysis or Variance Analysis) showcases the pricing dynamics and their impact on the overall sales performance. The visualizations allowes stakeholders to explore the relationship between product prices, sales volumes, and revenue across different segments and time periods.The visualizations provid a clear understanding of how changes in pricing affects sales and profitability, enabling the identification of pricing strategies that drive revenue growth and maximize profitability. This is perfect example of transforming complex pricing data into actionable insights using Tableau, ultimately assisting the organization in making informed pricing decisions and optimizing their overall pricing strategy.
+
+.</p>
 <br><img src="/images/sales bridge.png?raw=true"/><br>
 
 ---
