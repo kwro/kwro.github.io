@@ -34,7 +34,7 @@
 ---
 
 [Top 6 Cities by Sales](https://public.tableau.com/views/_Top6_automatically_selected_charts/TopicsRateOverTimeperRegion?:language=en-GB&:display_count=n&:origin=viz_share_link)
-<p style="font-size:12px">The dynamic selection feature of the Tableau dashboard allows users to choose the top 6 cities based on sales. One key benefit of this feature is that each of the 6 charts has its own independent axis, making it possible to compare the shape of the distribution even when the size of the cities varies significantly.</p>
+<p style="font-size:12px">The Tableau dashboard presenting a comprehensive sales analysis dashboard with a focus on city-level performance. Including dynamic selection feature enabled users to choose and compare the top 6 cities based on sales metrics. One notable advantage of this feature was the ability to accommodate cities of varying sizes while maintaining independent axes for each chart. This ensured accurate and meaningful comparisons of sales distribution, trends and patterns across the selected cities, regardless of their individual magnitudes.</p>
 <br><img src="/images/top6.png?raw=true"/><br>
 
 ---
