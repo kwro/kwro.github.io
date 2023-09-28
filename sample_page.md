@@ -1,9 +1,9 @@
 # Leveraging Tableau's LOD Functions for Dynamic Data Analysis
 <br>
 <img src="/images/blue_kpis.png?raw=true"/>
-<br>
-Member Performance vs Benchmark Dashboard(https://public.tableau.com/views/SelectedAccountPerformancevsBenchmark/ExecutiveSummary?%3Alanguage=en-US&%3Adisplay_count=n&%3Aorigin=viz_share_link)
-<br>
+
+[Member Performance vs Benchmark](https://public.tableau.com/views/SelectedAccountPerformancevsBenchmark/ExecutiveSummary?%3Alanguage=en-US&%3Adisplay_count=n&%3Aorigin=viz_share_link)
+
 ## Project Overview:
 
 In this Tableau project, I harnessed the formidable capabilities of Tableau's Level of Detail (LOD) functions to create a dynamic and robust visualization platform. This innovative approach allows users to delve deep into the data, analyze specific subsets, and make informed comparisons within the broader context of the entire dataset. By using LOD functions, we achieved a level of analytical depth that would have been challenging to attain using conventional SQL queries alone. The ability to simultaneously view both subsets and the complete dataset empowers stakeholders to make data-driven decisions with a holistic understanding of the data's intricate relationships and patterns.
