@@ -13,7 +13,7 @@
 ---
 ### Visualisation
 
-[Member Performance vs Benchmark](https://public.tableau.com/views/SelectedAccountPerformancevsBenchmark/ExecutiveSummary?%3Alanguage=en-US&%3Adisplay_count=n&%3Aorigin=viz_share_link)
+[Member Performance vs Benchmark](/sample_page)
 <p style="font-size:12px">By leveraging the power of Tableau's LOD (Level of Detail) functions, I created a dynamic and powerful visualisation by allowing users to analyse and compare data subsets within the context of the entire dataset. This comparison would not have been possible using a SQL query alone, as the WHERE clause restricts the ability to preview both the subset and the complete dataset simultaneously. This enhanced functionality enabled stakeholders to make data-driven decisions with a comprehensive understanding of the relationships and patterns within the data.</p>
 <br><img src="/images/blue_kpis.png?raw=true"/><br>
 
