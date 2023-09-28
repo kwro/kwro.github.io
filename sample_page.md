@@ -2,7 +2,7 @@
 <br>
 <img src="/images/blue_kpis.png?raw=true"/>
 
-[Member Performance vs Benchmark](https://public.tableau.com/views/SelectedAccountPerformancevsBenchmark/ExecutiveSummary?%3Alanguage=en-US&%3Adisplay_count=n&%3Aorigin=viz_share_link)
+[Member Performance vs Benchmark Dashboard](https://public.tableau.com/views/SelectedAccountPerformancevsBenchmark/ExecutiveSummary?%3Alanguage=en-US&%3Adisplay_count=n&%3Aorigin=viz_share_link)
 
 ## Project Overview:
 
