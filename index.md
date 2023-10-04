@@ -19,7 +19,7 @@
 
 ---
 
-[Saneky Flow Chart](https://public.tableau.com/views/SelectedAccountPerformancevsBenchmark/ExecutiveSummary?%3Alanguage=en-US&%3Adisplay_count=n&%3Aorigin=viz_share_link)
+Saneky Flow Chart
 <p style="font-size:12px">By utilizing Tableau's features and functionality, I was able to present complex marketing data in a visually appealing and easily understandable format. I developed an interactive Sankey diagram that effectively showcased the flow of users across different stages of the campaign. The three levels of the Sankey chart provided a clear and intuitive visualization of the user journey, highlighting the transitions and interactions between various touchpoints.</p>
 <br><img src="/images/Users_Flow.png?raw=true"/><br>
 
