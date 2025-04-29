@@ -14,7 +14,7 @@ Support a family-run business by increasing its Instagram visibility through an 
 
 This project aimed to promote organic engagement and visibility for a small business on Instagram. By leveraging [an open-source engagement bot](https://github.com/GramAddict), I created a fully automated infrastructure to interact with targeted users, simulating natural content engagement with minimal ongoing input.
 
-##My Contributions:
+## My Contributions:
 <ul>
   <li><strong>Cloud Infrastructure Setup:</strong> Deployed a lightweight Ubuntu virtual machine on Google Cloud Platform (GCP) to serve as the host environment.</li>
   <li><strong>Containerization:</strong> Created a Dockerized Android environment to run the Instagram interaction tool reliably and reproducibly.</li>
@@ -24,7 +24,7 @@ This project aimed to promote organic engagement and visibility for a small busi
   <li><strong>Notifications:</strong> Connected the system to Telegram to receive real-time updates on process status, errors, and engagement metrics.</li>
 </ul>
 
-##Impact:
+## Impact:
 <ul>
   <li>Generated aound 4.5k views and 200 followers monthly.</li>
   <li>Drove increased visibility for the business account through daily automated outreach.</li>
