@@ -5,6 +5,10 @@
 ## Cloud Computing
 
 ### [Automated Instagram Engagement Bot for Brand Awareness Campaign](/sample_page2) <br>
+<div align="center">
+  <img src="/images/emu1.png?raw=true" width="25%" />
+  <img src="/images/emu2.png?raw=true" width="25%" />
+</div>
 <p style="font-size:12px">A cloud-based automation project designed to boost brand awareness for a family-run business on Instagram. Built using Dockerized Android on GCP, the system runs an open-source interaction script with proxy support, scheduled via cron, and monitored via Telegram — enabling hands-free, consistent social media engagement with a business-focused goal.
 <br>Technologies: GCP, Docker, Linux (Ubuntu), Python, Cron, Telegram API, Proxies, Open-source Github Project
 </p>
