@@ -41,7 +41,7 @@
 ### [Sales Bridge | Variance Analysis](https://public.tableau.com/views/SalesBridgeVarianceAnalysisPriceVolumeMix/SalesBridge?:language=en-US&:display_count=n&:origin=viz_share_link)
 <p style="font-size:12px">Sales Bridge (Price Volume Mix Analysis or Variance Analysis) showcases the pricing dynamics and their impact on the overall sales performance. The visualizations allowes stakeholders to explore the relationship between product prices, sales volumes, and revenue across different segments and time periods.The visualizations provid a clear understanding of how changes in pricing affects sales and profitability, enabling the identification of pricing strategies that drive revenue growth and maximize profitability. This is perfect example of transforming complex pricing data into actionable insights using Tableau, ultimately assisting the organization in making informed pricing decisions and optimizing their overall pricing strategy.
 
-.</p>
+</p>
 <br><img src="/images/sales bridge.png?raw=true"/><br>
 
 ---
