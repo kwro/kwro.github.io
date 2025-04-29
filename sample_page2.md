@@ -1,11 +1,10 @@
 # Automated Instagram Engagement Bot for Brand Awareness Campaign
-<br>
 
 <div align="center">
   <img src="/images/emu1.png?raw=true" width="45%" />
   <img src="/images/emu2.png?raw=true" width="45%" />
 </div>
-
+<br>
 ## Project Motivation
 
 Support a family-run business by increasing its Instagram visibility through an automated brand awareness campaign using open-source interaction tools.
