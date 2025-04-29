@@ -25,7 +25,7 @@ This project aimed to promote organic engagement and visibility for a small busi
 
 ## Impact:
 <ul>
-  <li>Generated aound 4.5k views and 200 followers monthly.</li>
+  <li>Generated around <strong>4.5k views and 200 followers monthly.</strong></li>
   <li>Drove increased visibility for the business account through daily automated outreach.</li>
   <li>Created a reusable automation framework for future social media or engagement campaigns.</li>
 </ul>
